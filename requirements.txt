@@ -1,0 +1,8 @@
+coverage==5.5
+flake8==3.9.2
+mccabe==0.6.1
+nose2==0.10.0
+pkg-resources==0.0.0
+pycodestyle==2.7.0
+pyflakes==2.3.1
+six==1.16.0
