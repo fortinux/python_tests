@@ -2,7 +2,7 @@
 # python_tests    
 En este repositorio he creado algunos ejemplos para ejecutar tests en Python usando unittest, nose2 y pytest https://docs.pytest.org/en/latest/ en un ambiente virtual.    
     
-Los pasos para reproducirlos se encuentran en el fichero pasos_python_test.txt    
+Los pasos para reproducirlos se encuentran en el fichero pasos_python_test.md   
       
 En Github he agregado el workflow "Python application".     
 Al ejecutarse daba el siguiente error:    
